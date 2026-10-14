@@ -1,0 +1,1 @@
+Touchstone 4 update for North Star Bakery. Open index.html or serve this folder from an IDE. Add original client media files into media/ before publishing. Publish to GitHub and paste your real public links into the document. Form is a front-end demo, not a real order submission.
