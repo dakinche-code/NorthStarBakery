@@ -1,0 +1,1 @@
+Copy the original media assets from the Bakery_c.zip supplied in Touchstone 2 into this folder. Original media was not available for packaging here. Preserve the existing filenames.
